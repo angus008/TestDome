@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Persistence", "Persistence", "{B62E3970-0972-4B50-934F-D0347D20F36A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{3535BD3C-DE85-472A-914A-35C093AD5A36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{94B6CCA7-3D17-40E5-867D-433E86C7532E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRepository", "IRepository\IRepository.csproj", "{9652E0F2-A350-4C23-815A-DE246D223CD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{FFDAFED0-B29B-4A4A-BD3D-2D0C7B791BA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryContainer", "Container\RepositoryContainer.csproj", "{11AD3829-5344-4D2F-9E86-711343F4CEB9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{DEF1035D-B603-4055-B26C-E294E3B99850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{B64AE19B-A373-4674-92D1-FD5E2DA00304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94B6CCA7-3D17-40E5-867D-433E86C7532E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B6CCA7-3D17-40E5-867D-433E86C7532E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B6CCA7-3D17-40E5-867D-433E86C7532E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B6CCA7-3D17-40E5-867D-433E86C7532E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9652E0F2-A350-4C23-815A-DE246D223CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9652E0F2-A350-4C23-815A-DE246D223CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9652E0F2-A350-4C23-815A-DE246D223CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9652E0F2-A350-4C23-815A-DE246D223CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFDAFED0-B29B-4A4A-BD3D-2D0C7B791BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFDAFED0-B29B-4A4A-BD3D-2D0C7B791BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFDAFED0-B29B-4A4A-BD3D-2D0C7B791BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFDAFED0-B29B-4A4A-BD3D-2D0C7B791BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11AD3829-5344-4D2F-9E86-711343F4CEB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11AD3829-5344-4D2F-9E86-711343F4CEB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11AD3829-5344-4D2F-9E86-711343F4CEB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11AD3829-5344-4D2F-9E86-711343F4CEB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B64AE19B-A373-4674-92D1-FD5E2DA00304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B64AE19B-A373-4674-92D1-FD5E2DA00304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B64AE19B-A373-4674-92D1-FD5E2DA00304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B64AE19B-A373-4674-92D1-FD5E2DA00304}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9652E0F2-A350-4C23-815A-DE246D223CD4} = {B62E3970-0972-4B50-934F-D0347D20F36A}
+		{FFDAFED0-B29B-4A4A-BD3D-2D0C7B791BA5} = {B62E3970-0972-4B50-934F-D0347D20F36A}
+		{11AD3829-5344-4D2F-9E86-711343F4CEB9} = {B62E3970-0972-4B50-934F-D0347D20F36A}
+		{94B6CCA7-3D17-40E5-867D-433E86C7532E} = {3535BD3C-DE85-472A-914A-35C093AD5A36}
+		{B64AE19B-A373-4674-92D1-FD5E2DA00304} = {DEF1035D-B603-4055-B26C-E294E3B99850}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.2\lib\NET35
+	EndGlobalSection
+EndGlobal

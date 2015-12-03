@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\zhangdi\Desktop\Test\Test\bin\Debug\Test.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-12-01" time="17:54:08">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.4927" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="C:\Users\zhangdi\Desktop\NUnitceshi_9ht\NUnitceshi_9ht\NUnit-2.6.3\bin" machine-name="ZHANGDI-PC" user="zhangdi" user-domain="zhangdi-PC" />
+  <culture-info current-culture="zh-CN" current-uiculture="zh-CN" />
+  <test-suite type="Assembly" name="C:\Users\zhangdi\Desktop\Test\Test\bin\Debug\Test.dll" executed="True" result="Success" success="True" time="3.507" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Test" executed="True" result="Success" success="True" time="3.493" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="SimpleTest" executed="True" result="Success" success="True" time="3.492" asserts="0">
+            <results>
+              <test-case name="Test.SimpleTest.Text1" executed="True" result="Success" success="True" time="3.483" asserts="0" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
