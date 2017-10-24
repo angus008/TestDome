@@ -20,6 +20,5 @@ D:\github\test\Container\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
 D:\github\test\Container\bin\Debug\Microsoft.Practices.ServiceLocation.xml
 D:\github\test\Container\bin\Debug\Microsoft.Practices.Unity.xml
 D:\github\test\Container\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
-D:\github\test\Container\obj\Debug\RepositoryContainer.csprojResolveAssemblyReference.cache
 D:\github\test\Container\obj\Debug\Container.dll
 D:\github\test\Container\obj\Debug\Container.pdb

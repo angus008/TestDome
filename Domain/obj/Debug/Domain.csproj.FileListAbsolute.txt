@@ -2,7 +2,6 @@ C:\Users\zhangdi\Desktop\Test\Domain\bin\Debug\Domain.dll
 C:\Users\zhangdi\Desktop\Test\Domain\bin\Debug\Domain.pdb
 C:\Users\zhangdi\Desktop\Test\Domain\obj\Debug\Domain.dll
 C:\Users\zhangdi\Desktop\Test\Domain\obj\Debug\Domain.pdb
-D:\github\test\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
 D:\github\test\Domain\obj\Debug\Domain.dll
 D:\github\test\Domain\obj\Debug\Domain.pdb
 D:\github\test\Domain\bin\Debug\Domain.dll
