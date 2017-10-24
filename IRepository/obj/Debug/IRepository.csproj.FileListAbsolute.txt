@@ -5,3 +5,10 @@ C:\Users\zhangdi\Desktop\Test\IRepository\obj\Debug\IRepository.pdb
 C:\Users\zhangdi\Desktop\Test\IRepository\bin\Debug\Domain.dll
 C:\Users\zhangdi\Desktop\Test\IRepository\bin\Debug\Domain.pdb
 C:\Users\zhangdi\Desktop\Test\IRepository\obj\Debug\IRepository.csprojResolveAssemblyReference.cache
+D:\github\test\IRepository\bin\Debug\IRepository.dll
+D:\github\test\IRepository\bin\Debug\IRepository.pdb
+D:\github\test\IRepository\bin\Debug\Domain.dll
+D:\github\test\IRepository\bin\Debug\Domain.pdb
+D:\github\test\IRepository\obj\Debug\IRepository.csprojResolveAssemblyReference.cache
+D:\github\test\IRepository\obj\Debug\IRepository.dll
+D:\github\test\IRepository\obj\Debug\IRepository.pdb

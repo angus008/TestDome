@@ -10,3 +10,16 @@ C:\Users\zhangdi\Desktop\Test\Container\bin\Debug\Microsoft.Practices.Unity.Conf
 C:\Users\zhangdi\Desktop\Test\Container\obj\Debug\Container.dll
 C:\Users\zhangdi\Desktop\Test\Container\obj\Debug\Container.pdb
 C:\Users\zhangdi\Desktop\Test\Container\bin\Debug\Repository.config
+D:\github\test\Container\bin\Debug\Repository.config
+D:\github\test\Container\bin\Debug\Container.dll
+D:\github\test\Container\bin\Debug\Container.pdb
+D:\github\test\Container\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\github\test\Container\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\github\test\Container\bin\Debug\Microsoft.Practices.Unity.dll
+D:\github\test\Container\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\github\test\Container\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\github\test\Container\bin\Debug\Microsoft.Practices.Unity.xml
+D:\github\test\Container\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\github\test\Container\obj\Debug\RepositoryContainer.csprojResolveAssemblyReference.cache
+D:\github\test\Container\obj\Debug\Container.dll
+D:\github\test\Container\obj\Debug\Container.pdb
