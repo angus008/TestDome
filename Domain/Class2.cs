@@ -7,5 +7,6 @@ namespace Domain
 {
     class Class2
     {
+        public void aa() { }
     }
 }
