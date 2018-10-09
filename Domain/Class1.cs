@@ -9,6 +9,7 @@ namespace Domain
     {
         public void aa(){
             Console.WriteLine("aa");
+            Console.WriteLine("aa");
         }
 
     }
