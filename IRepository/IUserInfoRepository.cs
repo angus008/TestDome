@@ -8,5 +8,6 @@ namespace IRepository
 {
     public interface IUserInfoRepository:IDataContext<UserInfo>
     {
+        
     }
 }
